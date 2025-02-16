@@ -23,6 +23,6 @@ I'm a software developer passionate about creating innovative solutions, current
 ## Get in Touch
 
 - 📫 You can reach me via [email](mailto:anaoliveiragalaxy@gmail.com).
-- 🔗 Connect with me on [LinkedIn](www.linkedin.com/in/ana-clara-oliveira-47853b2a9).
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ana-clara-oliveira-47853b2a9).
 
 Looking forward to connecting and collaborating with you!
