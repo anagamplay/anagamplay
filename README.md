@@ -1,4 +1,4 @@
-<img src="assets/laptop.png" alt="Ilustração laptop com gatinho" width="400px" align="right">
+<img src="assets/laptop.png" alt="Ilustração laptop com gatinho" width="350px" align="right">
 
 ### Olá, eu sou a Ana! 👩‍💻  
 Sou desenvolvedora de software com foco em aplicações mobile e front-end.  
