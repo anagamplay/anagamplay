@@ -1,28 +1,21 @@
-# Hi there, I'm Ana! 👋
+<img src="assets/laptop.png" alt="Ilustração laptop com gatinho" width="400px" align="right">
 
-## About Me
+### Olá, eu sou a Ana! 👩‍💻  
+Sou desenvolvedora de software com foco em aplicações mobile e front-end.  
+Atualmente curso **Análise e Desenvolvimento de Sistemas** no IFMS e atuo como freelancer.
 
-I'm a software developer passionate about creating innovative solutions, currently exploring mobile development technologies. I'm studying **Analysis and System Development**.  
+---
 
-- 🌱 I’m currently learning more about mobile development.
-- 💼 Working as a freelancer, focused on front-end and mobile development.
-- 🔭 Exploring REST APIs and modern backend architectures. 
-- 🎮 In my free time, I enjoy gaming and working on game development projects.
+### Entre em contato:
 
-## My Skills
-
-- **Languages:** Dart, JavaScript, Python, PHP
-- **Frameworks:** Flutter, React Native, React, Node.js, Vue.js, Laravel, Flask
-- **Databases:** Firebase, SQLite, PostgreSQL
-- **Tools & Platforms:** Docker, Firebase, Postman
-
-## GitHub Stats
-
-![Anagamplay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anagamplay&show_icons=true&theme=radical)
-
-## Get in Touch
-
-- 📫 You can reach me via [email](mailto:anaoliveiragalaxy@gmail.com).
-- 🔗 Connect with me on [Linkedin](https://www.linkedin.com/in/ana-clara-oliveira-47853b2a9).
-
-Looking forward to connecting and collaborating with you!
+<p align="left">
+  <a href="mailto:ana.silvestre.contact@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ana-clara-oliveira-47853b2a9" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://anagamplay.github.io/portifolio/" title="Portfólio">
+    <img src="https://img.shields.io/badge/-Portfólio-000000?style=flat-square&logo=github&logoColor=white" alt="Portfólio"/>
+  </a>
+</p>
