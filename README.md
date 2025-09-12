@@ -9,7 +9,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** no Instituto Federal
 ### Entre em contato:
 
 <p align="left">
-  <a href="mailto:ana.silvestre.contact@gmail.com" title="Gmail">
+  <a href="https://mail.google.com/mail/?view=cm&to=ana.silvestre.contact@gmail.com" target="_blank" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/ana-clara-oliveira-47853b2a9" title="LinkedIn">
