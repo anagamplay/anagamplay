@@ -14,7 +14,4 @@ Desenvolvedora de software, construindo soluções do frontend ao backend.
   <a href="https://www.linkedin.com/in/ana-clara-oliveira-47853b2a9" title="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://elite-dirt-f34.notion.site/ANA-CLARA-SILVESTRE-DE-OLIVEIRA-3064ffef330a80c0b6a9ced2b0fc30bd" title="Portfólio">
-    <img src="https://img.shields.io/badge/-Portfólio-000000?style=flat-square&logo=github&logoColor=white" alt="Portfólio"/>
-  </a>
 </p>
