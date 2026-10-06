@@ -1,8 +1,7 @@
 <img src="assets/laptop.png" alt="Ilustração laptop com gatinho" width="350px" align="right">
 
 ### Olá, eu sou a Ana! 👩‍💻  
-Sou desenvolvedora de software com foco em aplicações mobile em Flutter.  
-Atualmente curso **Análise e Desenvolvimento de Sistemas** no Instituto Federal do Mato Grosso do Sul (IFMS).
+Desenvolvedora de software, construindo soluções do frontend ao backend.
 
 ---
 
